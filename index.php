@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <title>sabka dsot</title>
+  </head>
+<body>
+<main class="container">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+     <a class="navbar-brand" href="#">
+      <img src="src/images/pepe.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
+      Pepe
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+    
+      </ul>
+    </div>
+  </div>
+</nav>
+<br>
+<br>
+<div class="container">
+<div class="row">
+<pepe class="card mb-3 mx-auto" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="src/images/pepe_dp.png" class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">theRRS</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <a href="https:telegram.dog/theRRS" class="btn btn-primary">Contact</a>
+      </div>
+    </div>
+  </div>
+</pepe>
+</div>
+
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="card text-center">
+      <img src="src/images/jsm33t_dp.png" class="card-img-top" alt="hello blind man, who the fuck uses screen reader">
+      	<div class="card-body">
+        		<img src="src/images/jsm33t.svg" style="height:100px;" class="card-title text-centre"></img>
+        <p class="card-text">Jasmeet Singh a.k.a JSM33T is an electronic music producer from Jharsuguda, IN. known for his rendition and fusion of Bollywood with various genres.</p>
+			<a href="http://jsm33t.com" class="btn btn-primary mx-auto my-1"><i class="fa fa-link"></i> | Visit Site</a>
+			<a href="http://telegram.dog/jsm33t" class="btn mx-auto my-1" style="color:white; background-color:#0088cc"><i class="fa fa-telegram"></i> | Send Message</a>
+			<a class="btn mx-auto my-1" style="color:white; background-color: #ed302f;" href="https://youtube.com/c/JSM33TMUSIC role="button"> <i class="fa fa-youtube"></i> | Youtube
+</a>
+		</div>
+    </div>
+  </div>
+
+
+
+
+  <div class="col-md-4">
+    <div class="card text-center">
+      <img src="src/images/varu.jpeg" class="card-img-top" style="">
+      	<div class="card-body">
+			<h1><b>Varutri Parihar</b></h1>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<a href="#" class="btn btn-primary mx-auto my-1"><i class="fa fa-link"></i> | Visit Site</a>
+			<a href="http://telegram.dog/varutriParihar" class="btn mx-auto my-1" style="color:white; background-color:#0088cc"><i class="fa fa-telegram"></i> | Send Message</a>
+			<a class="btn mx-auto my-1" style="color:white; background-color: #ed302f;" href="#"> <i class="fa fa-link"></i> | button3
+</a>
+		</div>
+    </div>
+  </div>
+
+
+<div class="col-md-4">
+    <div class="card text-center">
+      <img src="src/images/ph.png" class="card-img-top" style="">
+      	<div class="card-body">
+			<h1><b>Dodo Vai Ji</b></h1>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<a href="#" class="btn btn-primary mx-auto my-1"><i class="fa fa-link"></i> | Visit Site</a>
+			<a href="http://telegram.dog/the_fake_dodo" class="btn mx-auto my-1" style="color:white; background-color:#0088cc"><i class="fa fa-telegram"></i> | Send Message</a>
+			<a class="btn mx-auto my-1" style="color:white; background-color: #ed302f;" href="#"> <i class="fa fa-link"></i> | button3
+</a>
+		</div>
+    </div>
+  </div>
+
+
+</div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+</body>
+</html>
